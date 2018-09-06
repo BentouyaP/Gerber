@@ -1,6 +1,9 @@
 
 Gerber: shuriken.gerber.zip
 
+![shuriken_left](https://i.imgur.com/XTmFQzq.jpg)
+
+![shuriken_right](https://i.imgur.com/ORBc37F.jpg)
 
     143.4mm Max* 123.5mm Max;
     Layers: 2;

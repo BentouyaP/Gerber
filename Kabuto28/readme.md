@@ -2,7 +2,7 @@
 Gerber: Kabuto28.gerber.zip
 
 
-![Kabuto28](https://imgur.com/cQeDaih)
+![Kabuto28](https://i.imgur.com/cQeDaih.jpg)
 
     105mm Max* 114mm Max;
     Layers: 2;

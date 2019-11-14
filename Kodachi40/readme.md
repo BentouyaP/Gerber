@@ -1,9 +1,5 @@
 
-Gerber: Kodachi40.gerber.zip
-
-![Kodachi40](https://i.imgur.com/sqYPBlP.jpg)
-
-![Kodachi40](https://i.imgur.com/L2YBUpC.jpg)
+Gerber: Kodachi40v15.gerber.zip
 
     238.2mm Max* 76.1mm Max;
     Layers: 2;

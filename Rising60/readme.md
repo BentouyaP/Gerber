@@ -1,3 +1,4 @@
+# Rising60
 
 Gerber: Rising60.gerber.zip
 
@@ -10,6 +11,21 @@ Gerber: Rising60.gerber.zip
     Surface Finish: HASL;
     Copper Weight: 1oz;
     Panelized PCBs: 1
+
+BOM.
+
+
+    70  1n4148 diodes;
+    70  MX compatible switches;
+    1   Pro Micro 5v;
+    2   12pin headers;
+    1   mini USB connector;
+    1   2U PCB mount stabilizers;
+    
+Optional.
+
+
+    8   WS2812B RGB LEDs;
 
 
 Files released under https://creativecommons.org/licenses/by-nc-sa/4.0/
